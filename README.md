@@ -18,3 +18,7 @@ npm install cors
 ```
 npx create-react-app frontend
 ```
+
+
+## Sintaxe básica de escrita e formatação no GitHub
+- https://help.github.com/pt/github/writing-on-github/basic-writing-and-formatting-syntax
