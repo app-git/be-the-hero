@@ -1,8 +1,10 @@
-Wellcome to My Javascript Project!
+### Wellcome to My Javascript Project!
 
-https://github.com/app-git/be-the-hero
+- link acess https://github.com/app-git/be-the-hero
 
-### BACKEND START: commands
+## BACKEND START: 
+# commands
+```
 npm init -y
 npm install express
 npm install nodemon -D
@@ -12,6 +14,9 @@ npx knex init
 npx knex migrate:make create_tablename
 npx knex migrate:latest
 npm install cors
-
-### FRONTEND START: commands
+```
+## FRONTEND START: 
+# commands
+```
 npx create-react-app frontend
+```
