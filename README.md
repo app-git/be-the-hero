@@ -13,10 +13,15 @@ npx knex init
 npx knex migrate:make create_tablename
 npx knex migrate:latest
 npm install cors
+
 ```
 ## FRONTEND START: commands
 ```
 npx create-react-app frontend
+npm install react-icons
+npm install react-router-dom
+npm install axios
+
 ```
 
 
