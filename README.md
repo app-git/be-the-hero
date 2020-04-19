@@ -13,6 +13,12 @@ npx knex init
 npx knex migrate:make create_tablename
 npx knex migrate:latest
 npm install cors
+npm install celebrate
+npm install jest
+npx jest --init
+npm install cross-env
+npm install supertest
+
 
 ```
 ## FRONTEND START: commands
